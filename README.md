@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Richardo!
+# 👋 Hi, I'm Ricardo!
 
 Welcome to my GitHub profile! I'm a passionate software developer with expertise in building innovative and scalable solutions. Here's a snapshot of my skills and interests:
 
